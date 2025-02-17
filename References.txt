@@ -1,0 +1,4 @@
+1. Sutcliffe L, Lumley H, Shaw L, Francis R, Price CI. Surface electroencephalography (EEG) during the acute phase of stroke to assist with diagnosis and prediction of prognosis: a scoping review. BMC Emerg Med 2022;22:29 
+2. Massey SL, Abend NS, Gaynor JW, et al. Electroencephalographic patterns preceding cardiac arrest in neonates following cardiac surgery. Resuscitation 2019;144:67-74.
+3. Topjian AA, Sanchez SM, Shults J, Berg RA, Dlugos DJ, Abend NS. Early Electroencephalographic Background Features Predict Outcomes in Children Resuscitated From Cardiac Arrest. Pediatr Crit Care Med 2016;17:547-557.
+4. Gainza-Lein M, Sanchez Fernandez I, Loddenkemper T. Use of EEG in critically ill children and neonates in the United States of America. J Neurol 2017;264:1165-1173.
